@@ -41,7 +41,7 @@ async def chatbot(client, message):
     umm = await message.reply_sticker("CAACAgUAAx0CYhe_TwABEy5cZD5j6WVwu-MyFTesNRENhhW-G48AAmgGAALlVkFXA__kCEL_J54vBA")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/2fabd1c33e888e0533891.jpg",
+        photo=f"https://te.legra.ph/file/d0dd188007cccd008546f.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
 💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
 ᴏғ ♻️ ᴅʀ ꜱᴛᴅ ᴅɪꜱʜᴀ 🔥
