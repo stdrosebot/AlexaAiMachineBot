@@ -38,7 +38,7 @@ async def chatbot(client, message):
     await alexaai.edit("**ɪ ᴀᴍ ᴅᴏɪɴɢ ᴍʏ ʟᴏᴠᴇ 💕**")
     await alexaai.delete()
     await asyncio.sleep(2)
-    umm = await message.reply_sticker("CAACAgIAAxkBAAEForNjAykaq_efq4Wd-9KZv-nNxJRn3AACIgMAAm2wQgO8x8PfoXC1eCkE")
+    umm = await message.reply_sticker("CAACAgUAAx0CYhe_TwABEy5cZD5j6WVwu-MyFTesNRENhhW-G48AAmgGAALlVkFXA__kCEL_J54vBA")
     await asyncio.sleep(2)
     await message.reply_photo(
         photo=f"https://telegra.ph/file/2fabd1c33e888e0533891.jpg",
