@@ -44,21 +44,21 @@ async def chatbot(client, message):
         photo=f"https://telegra.ph/file/2fabd1c33e888e0533891.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
 💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
-ᴏғ ♻️ ᴅʀ ᴀsᴀᴅ ᴀʟɪ 🔥
+ᴏғ ♻️ ᴅʀ ꜱᴛᴅ ᴅɪꜱʜᴀ 🔥
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ ᴄʀᴇᴀᴛᴇʀ [ꜱᴛᴅ](https://t.me/STD_DEEPANSHU)
 ┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/GirlsBoyzDp)
 ┣★ ʙᴏᴛ ᴜᴏᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/Teamstdbots)
-┣★ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/Yarron_Ki_Duniya)
-┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/jankarikiduniya/AlexaAiMachineBot)
-┣★ ɴᴇᴛᴡᴏʀᴋ [ʀᴏᴄᴋs](https://t.me/bestFriendschattgroup)
+┣★ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/StdLogs)
+┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/VIP_CREATORS)
+┣★ ɴᴇᴛᴡᴏʀᴋ [ɴᴇᴛᴡᴏʀᴋ](https://t.me/Tg_Friendss)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
 IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Std_Deepanshu""",
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🌼 ᴄʜᴀᴛ 💮", url=f"https://t.me/bestFriendschattgroup")]]
+            [[InlineKeyboardButton("🌼 ᴄʜᴀᴛ 💮", url=f"https://t.me/Tg_Friendss")]]
         ),
     ) 
 
@@ -67,7 +67,7 @@ IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Std_Deepanshu""",
     filters.command("alive", prefixes=["/", ".", "?", "-"])
     & ~filters.private)
 async def start(client, message):
-    await message.reply_text(f"**ᴀʟᴇxᴀ ᴀɪ ᴜsᴇʀʙᴏᴛ ғᴏʀ ᴄʜᴀᴛᴛɪɴɢ ɪs ᴡᴏʀᴋɪɴɢ**")
+    await message.reply_text(f"**ᴅɪꜱʜᴀ ᴀɪ ᴜsᴇʀʙᴏᴛ ғᴏʀ ᴄʜᴀᴛᴛɪɴɢ ɪs ᴡᴏʀᴋɪɴɢ**")
     
     
 @client.on_message(
